@@ -13,7 +13,7 @@ class remove_3{
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        remove_3 sol = new remove_3();
 
         int[] nums = {1,1,1,2,2,3};
 
