@@ -5,11 +5,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aaka2203/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aaka2203/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Aaka2203/leetcode-practice/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aaka2203/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aaka2203/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
