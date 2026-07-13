@@ -19,6 +19,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aaka2203/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Aaka2203/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Aaka2203/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aaka2203/leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/Aaka2203/leetcode-practice/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Aaka2203/leetcode-practice/tree/master/1288-remove-covered-intervals) |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Aaka2203/leetcode-practice/tree/master/1051-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aaka2203/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
