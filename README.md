@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aaka2203/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aaka2203/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Aaka2203/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Aaka2203/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aaka2203/leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -32,6 +33,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aaka2203/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aaka2203/leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Counting Sort
 |  |
@@ -40,5 +42,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aaka2203/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aaka2203/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aaka2203/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
