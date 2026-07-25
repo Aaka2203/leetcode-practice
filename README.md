@@ -56,4 +56,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aaka2203/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aaka2203/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aaka2203/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aaka2203/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
